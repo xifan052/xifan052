@@ -55,4 +55,4 @@
 * git remote set-url --add origin 仓库名 （给origin添加一个远程push地址）
 * git remote -v（查看所有远程地址）
 
-![ ](/assets/git/git常用命令.png)
+![ ](/xifan052/assets/git/git常用命令.png)
