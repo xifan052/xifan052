@@ -4,6 +4,7 @@ date: 2017-11-13
 categories:
   - All
   - 源码
+  - Vue
 ---
 
 > 转自 segmentfault：[染陌同学](https://segmentfault.com/a/1190000011978825)
